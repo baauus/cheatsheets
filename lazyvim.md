@@ -220,22 +220,22 @@ rmdir carpeta_vacia/             # Eliminar carpeta vacía
 ```bash
 pwd                              # Ver directorio actual
 ls                               # Listar archivos
-ls -la                          # Listar con detalles y ocultos
-cd directorio/                  # Cambiar directorio
-cd ..                           # Subir un nivel
-cd ~                            # Ir a home
+ls -la                           # Listar con detalles y ocultos
+cd directorio/                   # Cambiar directorio
+cd ..                            # Subir un nivel
+cd ~                             # Ir a home
 ```
 
 ### Docker
 ```bash
-docker compose version          # Verificar Docker Compose
-docker --version               # Verificar Docker
-docker ps                      # Contenedores activos
-docker compose up -d           # Levantar servicios
-docker compose down            # Detener servicios
+docker compose version           # Verificar Docker Compose
+docker --version                 # Verificar Docker
+docker ps                        # Contenedores activos
+docker compose up -d             # Levantar servicios
+docker compose down              # Detener servicios
 ```
 
 ---
 
-**Creado para:** DevOps Junior | Estudiante de Ingeniería Informática  
-**Fecha:** Noviembre 2024
+**Creado por:** Ricard Bausili
+**Fecha:** Noviembre 2025
