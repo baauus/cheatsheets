@@ -1,4 +1,4 @@
-# Guía de Atajos LazyVim - Referencia Rápida
+# LazyVim
 
 **Nota:** `<leader>` por defecto es la **barra espaciadora** (Space)
 
