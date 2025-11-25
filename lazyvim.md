@@ -213,15 +213,6 @@ cd ..                            # Subir un nivel
 cd ~                             # Ir a home
 ```
 
-### Docker
-```bash
-docker compose version           # Verificar Docker Compose
-docker --version                 # Verificar Docker
-docker ps                        # Contenedores activos
-docker compose up -d             # Levantar servicios
-docker compose down              # Detener servicios
-```
-
 ---
 
 **Creado por:** Ricard Bausili
